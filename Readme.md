@@ -1,5 +1,4 @@
-# A Comprehensive Approach for the Placement in the Fog of 
-Multiplayer Latency Sensitive Games Servers
+# A Comprehensive Approach for the Placement in the Fog of Multiplayer Latency Sensitive Games Servers
 
 Fog computing can be a promising paradigm, for enabling online, multiplayer games with stringent delays. An important problem to be addressed, within this context, deals with the  placement of game servers. It consists of selecting suitable Fog nodes, for hosting the servers, inline with the Quality of Service (QoS) requirements of the respective games, while offering the needed computing capacities, at optimal costs. 
 
