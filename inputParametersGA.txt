@@ -1,0 +1,6 @@
+betaOne=4;
+betaTwo=0,7;
+rep=0,05;
+mut=0,01;
+generations=5000;
+m=2;
