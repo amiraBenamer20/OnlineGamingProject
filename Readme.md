@@ -7,3 +7,6 @@ This paper provides an efficient approach for the placement of game servers, sat
 
 Our approach is based on an integer linear programming model formulation, with complex constraints dealing with player network delays, server capacities and hosting costs. An efficient and timely solution is provided, using a novel multi-penalty genetic algorithm (GA) heuristic. Results show that our approach outperforms others, in terms of solution quality and with computations speeds enabling its use in real-time settings. 
 
+![](Results/GamingSystem.jpg)
+![](Results/Data/Distribution 100 1000.png)
+![](Results/Data/Distribution 100 1000.png)
