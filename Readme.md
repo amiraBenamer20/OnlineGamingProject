@@ -9,4 +9,4 @@ Our approach is based on an integer linear programming model formulation, with c
 
 ![](Results/GamingSystem.jpg)
 ![](Results/Data/Distribution_100_1000.png)
-![](Results/Data/Distribution_100_1000.png)
+![](Results/Data/Distribution_100_5000.png)
