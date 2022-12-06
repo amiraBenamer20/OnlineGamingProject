@@ -29,6 +29,11 @@ public class Chromosome implements  Cloneable
    public int violated=Integer.MAX_VALUE;
    public double penality_capacity;
    public double penality_latency;
+   public double penalty_migration;
+
+
+   public int migrated;
+   
    public int flag=-1;
    public double mainFunc=Integer.MAX_VALUE;
     //delay violation
@@ -36,11 +41,17 @@ public class Chromosome implements  Cloneable
     //cap violation
     public int [][] capRel;
     public double migrationCost=0.0;
+    public double clientPaidFee;
+    public double allocationCost;
+   
     public double objectiveFunc;
     public double secondPart;
     public double costResources=0.0;
     public double costResourceNoViol=0.0;
     public double costDeadline=0.0;
+    public double cummulative_cost;
+    
+    
     public double execTime=0.0;
     public double[]latency_cdf_pdf;
     public int id;
@@ -67,6 +78,8 @@ public class Chromosome implements  Cloneable
            System.out.print(" | "+fitness+"  --penality_capacity: "+penality_capacity+" --penality_latency: "+penality_latency);
            System.out.println(""); 
            System.out.println(" | "+objectiveFunc+" --fitnes: "+fitness+"  --penality_capacity: "+penality_capacity+" --penality_latency: "+penality_latency);
+           System.out.println(" |revenue "+objectiveFunc+" |Client Paid Fee = "+clientPaidFee+" |Opex = "+(allocationCost+migrationCost)+" --fitness: "+fitness+"  --penalty_capacity: "+penality_capacity+" --penalty_latency: "+penality_latency+" --penalty_migration: "+penalty_migration);
+          
            System.out.println("Number of active servers is: "+activeServers);
     }
      public  void howMuchPlacedServers()

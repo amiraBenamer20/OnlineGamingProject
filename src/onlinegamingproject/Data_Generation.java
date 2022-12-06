@@ -1,13 +1,15 @@
+package onlinegamingproject;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package onlineGamingProject;
+
 
 import Benchmarks.GroupingGeneticPenalty.GroupingGeneticAlgorithm;
 import Benchmarks.NewGGAPenalty.GroupingPenalty;
-import GeneticAlgorithmPenalty.GeneticPenalty;
+import GeneticAlgorithmPenalty.GeneticPenalty_Static;
 
 import java.io.DataInputStream;
 import java.io.FileInputStream;
@@ -538,7 +540,7 @@ public class Data_Generation
        
         System.out.println("OPTIMIZATION "+rerun);
         System.out.println("----------------------Our Proposal---------------------");
-        GeneticPenalty gp=new GeneticPenalty(path,sets, nbOfplayersPerSet, edges,tick,Dmax);
+        GeneticPenalty_Static gp=new GeneticPenalty_Static(path,sets, nbOfplayersPerSet, edges,tick,Dmax);
         gp.Genetic_pen(C, C, W, Dn,  CDH, Dn_eligibility,Dn_closeness,str,cross,id,threshold,rerun);
              
  

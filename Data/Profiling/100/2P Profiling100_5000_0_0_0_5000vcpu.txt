@@ -1,0 +1,538 @@
+end generate Population: 16.0
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 7.0
+end mutation: 0.0
+end mutation: 4.0
+end evaluation: 0.0
+end reproduction: 13.0
+end iteration: 30.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 32.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 33.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 36.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 38.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 2.0
+end iteration: 40.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 43.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 44.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 2.0
+end iteration: 46.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 48.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 49.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 51.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 53.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 55.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 57.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 59.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 61.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 62.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 64.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 65.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 67.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 69.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 2.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 2.0
+end iteration: 73.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 74.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 76.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 77.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 78.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 80.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 81.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 82.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 83.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 85.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 87.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 1.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 88.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 1.0
+end iteration: 89.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 90.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 90.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 91.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 91.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 92.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 92.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 93.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 93.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 94.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 94.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 3.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 3.0
+end iteration: 98.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 99.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
+end iteration: 99.0
+
+end initialization: 0.0
+end sort: 0.0
+end replicate top nrep solutions: 0.0
+end update fitness value with new lamdaC & lamdaD: 0.0
+end crossover: 0.0
+end mutation: 0.0
+end mutation: 0.0
+end evaluation: 0.0
+end reproduction: 0.0
