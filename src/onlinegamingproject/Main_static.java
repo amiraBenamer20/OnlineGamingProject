@@ -19,7 +19,8 @@ public class Main_static
     {
         Data_Generation instance;
         
-        String path = "Data\\";
+        String root = "D:\\";//make sure to replace D:\\ by the current directory where the code exists
+        String path = root+"OnlineGamingProject\\Data_Static\\"; 
         int configurations[]={100};//20,40,60,80,100,250,500,750,1000,1250,1500,1750,2000,3000,
      
         int instances=1;//Number of instances for each configuration

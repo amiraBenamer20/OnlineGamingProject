@@ -21,8 +21,10 @@ public class Main_dynamic
      {
          int [] all_instances = {100};//{20,40,60,80,100,250,500,750,1000,1250,1500,1750,2000,3000,4000,5000};
 
-         String pathDyanmic = "Data/";//"/nfs/homes/amira.rayane.benamer/Dynamic/";
-         String pathStatic = "Data/";//"/nfs/homes/amira.rayane.benamer/Static/";
+        String root = "D:\\";//make sure to replace D:\\ by the current directory where the code exists
+        String pathStatic = root+"OnlineGamingProject\\Data_Static\\"; 
+        String pathDyanmic = root+"OnlineGamingProject\\Data_Dynamic\\";
+
          
          int []velocities = {10,20,40};
          float [] variations = {0.3f};//, 0.3f};

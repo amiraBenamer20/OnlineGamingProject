@@ -12,6 +12,7 @@ import Benchmarks.NewGGAPenalty.GroupingPenalty;
 import GeneticAlgorithmPenalty.GeneticPenalty_Static;
 
 import java.io.DataInputStream;
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
@@ -116,7 +117,7 @@ public class Data_Generation
 
     
     static synchronized void fillData(String fileName1, String fileName2) throws FileNotFoundException, IOException {
-        PrintWriter sortie = new PrintWriter(new FileWriter(fileName1));
+        PrintWriter sortie = new PrintWriter(new FileWriter(new File(fileName1).getAbsolutePath()));
         PrintWriter sortieOPT = new PrintWriter(new FileWriter(fileName2));
         PrintWriter sortieP = new PrintWriter(new FileWriter(path+"CoordinatesVIS\\"+sets+"\\playersUP_"+sets+"_"+id+"_"+threshold+"_"+rerun+"_"+edgeCap[addedC][0]+"vcpu.txt"));
         PrintWriter sortieE = new PrintWriter(new FileWriter(path+"CoordinatesVIS\\"+sets+"\\edgesUP_"+sets+"_"+id+"_"+threshold+"_"+rerun+"_"+edgeCap[addedC][0]+"vcpu.txt"));
@@ -130,7 +131,7 @@ public class Data_Generation
         PrintWriter sortieInoutSurface = new PrintWriter(new FileWriter(path+"Input\\Surface"+edgeCap[addedC][0]+"vcpu_"+id+"_"+threshold+".txt",true));
         PrintWriter sortieInoutServers = new PrintWriter(new FileWriter(path+"Input\\ServerCand"+edgeCap[addedC][0]+"vcpu_"+id+"_"+threshold+".txt",true));
         
-        
+
         //see paper @Scaling in the space-time of the Internet
         alphaRange.put(25.0, 4.47);
         alphaRange.put(50.0, 3.12243439);
@@ -544,9 +545,9 @@ public class Data_Generation
         gp.Genetic_pen(C, C, W, Dn,  CDH, Dn_eligibility,Dn_closeness,str,cross,id,threshold,rerun);
              
  
-         System.out.println("----------------------GGA penalty----------------------");
-         GroupingPenalty ggap=new  GroupingPenalty(path,sets, nbOfplayersPerSet, edges,tick,Dmax);
-         ggap.main(C, C, W, Dn,  CDH, Dn_eligibility,Dn_closeness,"GGA_Pen",id,threshold,rerun);
+//         System.out.println("----------------------GGA penalty----------------------");
+//         GroupingPenalty ggap=new  GroupingPenalty(path,sets, nbOfplayersPerSet, edges,tick,Dmax);
+//         ggap.main(C, C, W, Dn,  CDH, Dn_eligibility,Dn_closeness,"GGA_Pen",id,threshold,rerun);
       
 //        System.out.println("----------------------GGA Repair------------------------");
 //        GroupingGeneticAlgorithm gga=new GroupingGeneticAlgorithm(path,sets, nbOfplayersPerSet,edges, C, C, W, Dn, Dmax, CDH, Dn_eligibility,tick);
